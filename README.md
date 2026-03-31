@@ -405,7 +405,8 @@ Tools
 
 * :heavy_dollar_sign: [articy:draft](http://www.nevigo.com/en/articydraft/overview/) visual environment for the creation and organization of game content. 
 * :free: [Dundoc](http://www.dundoc.com/) Game Design starter Template 
-* :heavy_dollar_sign: [Scrivener](https://www.literatureandlatte.com/scrivener.php) Helps concentrate on composing and structuring long and difficult documents  
+* :heavy_dollar_sign: [Scrivener](https://www.literatureandlatte.com/scrivener.php) Helps concentrate on composing and structuring long and difficult documents
+* :free: [Palette Viewer](https://isometric8.itch.io/palette-viewert) A palette file viewer for visualising a range of palette file formats include GIMP (.gpl), Hex, Pal, Text and Adobe Swatch Exchange
 * :free: [Tiny Game Design Tool](http://tinygdtool.urustar.net) small, portable booklet created in order to help game designers. 
 * :o2: [Twine](http://twinery.org/) - Open-source tool for telling interactive, nonlinear stories. 
 
@@ -435,7 +436,8 @@ Tools
 ### Pixel Editor
 
 * :heavy_dollar_sign: [Aseprite](http://www.aseprite.org/) - Animated sprite editor & pixel art tool 
-* :heavy_dollar_sign: [Hexels](https://www.marmoset.co/hexels/) - intuitive 2D, grid-based painting tool 
+* :heavy_dollar_sign: [Hexels](https://www.marmoset.co/hexels/) - intuitive 2D, grid-based painting tool
+* :heavy_dollar_sign: [Lightcube](https://www.lightcube.art/) - Lightcube is a Windows based pixel art editor for making quality game assets, animations and stunning pixel art 
 * :heavy_dollar_sign: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. 
 * :o2: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. 
 * :free: [Pixa.Pics](https://pixa.pics/) - Load any image on the web app as a pixel art. Then, draw, and eventually vectorize art.  
@@ -452,6 +454,8 @@ Tools
 * :o2: [Libgdx Texture Packer](https://libgdx.com/wiki/) - Texture Packer built into Libgdx 
 * :free: [MakeAtlas](http://www.skn3.com/junk/makeatlas/makeatlas1.12.zip) - Simple tool to pack a texture atlas 
 * :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
+* :heavy_dollar_sign: [Sprite Sheet Slicer](https://isometric8.itch.io/sprite-sheet-slicer/) - The Sprite Sheet Slicer is a handy no fuss utility to quickly slice a sprite sheet into individual sprite images
+* :heavy_dollar_sign: [Sprite Sheet Maker](https://isometric8.itch.io/sprite-sheet-maker/) - A texture packer tool for efficiently organizing and optimizing your 2D game assets
 * :o2: [Kavex's Spritesheet Maker](https://github.com/Kavex/Spritesheet-Maker) - Free spritesheet maker to replace GlueIT. Has much newer export formats. 
 * :triangular_flag_on_post: [SpriteUV2](https://www.spriteuv.com/) - tool for creating optimal meshes for textures/sprites and packing them into an atlas. 
 * :o2: [Stitches](https://draeton.github.io/stitches/) An HTML5 sprite sheet generator 
